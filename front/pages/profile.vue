@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  layout: 'admin',
+  // layout: 'admin',
   data() {
     return {
       name: 'Nuxt.js',
